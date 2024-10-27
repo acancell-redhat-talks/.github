@@ -1,1 +1,1 @@
-A reposiroty for each talk
+A repository for each talk
